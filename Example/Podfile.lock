@@ -1,0 +1,16 @@
+PODS:
+  - ASRefresh (0.1.0)
+
+DEPENDENCIES:
+  - ASRefresh (from `../`)
+
+EXTERNAL SOURCES:
+  ASRefresh:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASRefresh: c697b3497dd205f23fa6cbee172009b03b4e18ad
+
+PODFILE CHECKSUM: 2f6dc8522dfd0a3acc539e1ad9f937465215fa64
+
+COCOAPODS: 1.10.1
