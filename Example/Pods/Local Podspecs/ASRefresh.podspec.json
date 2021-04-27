@@ -1,6 +1,6 @@
 {
   "name": "ASRefresh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "fresh tool",
   "description": "头部刷新工具",
   "homepage": "https://github.com",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/wodely/ASRefresh.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "9.0"
