@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ASRefresh'
-  s.version          = '0.4.0'
+  s.version          = '0.6.0'
   s.summary          = 'fresh tool'
 
 # This description is used to generate tags and improve search results.
@@ -32,9 +32,9 @@ Pod::Spec.new do |s|
 
   s.source_files = 'ASRefresh/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'ASRefresh' => ['ASRefresh/Assets/*.png']
-  # }
+  s.resource_bundles = {
+     'ASRefresh' => ['ASRefresh/Assets/*.png']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

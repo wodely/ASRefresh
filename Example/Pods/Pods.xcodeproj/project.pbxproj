@@ -8,33 +8,34 @@
 
 /* Begin PBXBuildFile section */
 		105B3C2CA2BA06F1A5FB0107C8B8A515 /* Pods-ASRefresh_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E742993AA26D4E139F094F206BCB6B /* Pods-ASRefresh_Example-dummy.m */; };
-		1AEDE5614B80DBDBA97A2259E092DCE0 /* SDRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = C7D636D81A3712B0761671558173003F /* SDRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		13712975E9A6C8C5B38C1509F36E0CC4 /* ASRefresh.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 80186E98B4F9769FECBCD9E795D8AB1A /* ASRefresh.bundle */; };
+		14E7ABF8DB4076EADC31C3A9C12D28BA /* SDRefreshView.h in Headers */ = {isa = PBXBuildFile; fileRef = B374347CE8C25F77870F46CFD3478CD6 /* SDRefreshView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1B32092C756844A0C98F4EF1E7FD2501 /* Pods-ASRefresh_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F7D9EC992A037D84D05F1897E6BC7853 /* Pods-ASRefresh_Tests-dummy.m */; };
-		1CA53C35770F150DA5C9C2A7CE015433 /* SDRefreshHeaderView.h in Headers */ = {isa = PBXBuildFile; fileRef = ABDD0D056DD6DB86317195B599990CE5 /* SDRefreshHeaderView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		282AAB3EC7269943710E3F50749413DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		4D4992027E2FFE6F0A188DDA983312B1 /* sdRefeshView_arrow@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 1960B0D5CABC12094C0E54A9F892B4B5 /* sdRefeshView_arrow@2x.png */; };
-		5354B6A6DFAA45CB4F390DEC00D89387 /* SDRefreshView.h in Headers */ = {isa = PBXBuildFile; fileRef = D946F654D01FE86E648E77E5094B215C /* SDRefreshView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		56FFD069CCEF987CFAB50318097C1E06 /* SDRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9698D5BC204CE35A846892FBFFF7E635 /* SDRefreshView.m */; };
-		605AAA22067157026DBB5D6B8210BE09 /* UIView+SDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = E9C182F2B4CFCCDB5851195C2A515C17 /* UIView+SDExtension.m */; };
+		319CB0F659A78AAAC8553569A53A0E7F /* SDRefreshHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A598CA2B29B4284EFA8798935CDC57E /* SDRefreshHeaderView.m */; };
+		373F2328C34EDE5E7B5372C8394DAAC9 /* SDRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = A214954C981D380FF3BBF39A5E9D2A27 /* SDRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		388BF5D9E102C4F8E4F66238D8AD71C2 /* UIView+SDExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = E7896043F109B556A1C6EDD4F7514731 /* UIView+SDExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		41629534F94DF9AB0BA585D099DD5DED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		4327A97E5EED2BFAB92C3C6D4DBCF155 /* ASRefresh-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = ADCEBBCC04AB07727ACBDF44BC781FE2 /* ASRefresh-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5FA06A07730DC556FA46AA6A59FE3C3C /* sdRefeshView_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D87926476E0D054B2C64C8BB2A86BEF2 /* sdRefeshView_arrow@2x.png */; };
 		62E7B0E5502D42AA58785475B92DA77A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		6FDF6C6CA20D7367377D2EFEDA6654CF /* Pods-ASRefresh_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EDF37A75DA46F2A9AFC81B08381B3132 /* Pods-ASRefresh_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		784C6F6A7BE4F1E8563BCC556579A44C /* SDRefreshFooterView.h in Headers */ = {isa = PBXBuildFile; fileRef = 65366A61BD040714AD59D75EF1138214 /* SDRefreshFooterView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8E0A92086409098A942425464FD257FE /* Pods-ASRefresh_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C01223BCD396C113C838EBA53E283EF /* Pods-ASRefresh_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9EE9D87B489D29B2382D8A791EE46779 /* UIView+SDExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = CEFED1A7E8928F7EC2704A8DA88B7DBB /* UIView+SDExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		ABF2A74CB6DC37EC8AD22F8C61AC6F2E /* ASRefresh-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F30A87BFED50C434FF213C88F068AE6F /* ASRefresh-dummy.m */; };
-		C7924BCAC2BB8780C9EB7DD98283E56C /* ASRefresh-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C4C3A7B586544C8DBECAF6DA61D540ED /* ASRefresh-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CB04F3815CA145909B86B2B6E1C38538 /* SDRefreshFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = F2D50CE04EC393DB6741411427F7707C /* SDRefreshFooterView.m */; };
+		A2177E72FC534EF87DC686C2F5180892 /* SDRefreshFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9F6F819573F4AD7EC5B3ED189F16F20 /* SDRefreshFooterView.m */; };
+		A50E78CCDE018E23E6A2E44EB98B383B /* SDRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CEA6F488413C33C81522B6B8939DCF5 /* SDRefreshView.m */; };
+		A81F22CECE560A4CD0AA0680ADEBFACA /* UIView+SDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = FD8A01D0BEB47EDFF79D7418E98B2BDB /* UIView+SDExtension.m */; };
+		B00A7A438FCF4B34BCBEEA6B3E29C6D8 /* SDRefreshHeaderView.h in Headers */ = {isa = PBXBuildFile; fileRef = DBA26C1CE6B99552BD741EFB414ADEF3 /* SDRefreshHeaderView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DF992D77F06BEE57CE68261DE7731854 /* ASRefresh-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D44FAA4BCDBE32A1D206B9565924370F /* ASRefresh-dummy.m */; };
 		EFA11A36CED2116C7799DFC5FCF16E86 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		F2317E60BEFCDE4B5A7BE97737114741 /* SDRefreshHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 79EA458010403CFB9618907EEA612C2E /* SDRefreshHeaderView.m */; };
-		F5CFA92B6B11E4B579552F6CE28CF4F6 /* SDRefreshFooterView.h in Headers */ = {isa = PBXBuildFile; fileRef = E36EB4F98998D173552DDBEA9DECD318 /* SDRefreshFooterView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		9887F2CCAC0ADBD6C4D36FFD25D81934 /* PBXContainerItemProxy */ = {
+		74839BD5569748EC97F7895439447A8C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 34CABFAF2511B6FC0CAAB514D20B3F4A;
-			remoteInfo = "Pods-ASRefresh_Example";
+			remoteGlobalIDString = 7B5C95721C59A0D0E0A977FFCB92A5A6;
+			remoteInfo = "ASRefresh-ASRefresh";
 		};
 		A87B8322011BC67E20307BF2B25DA12F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -43,49 +44,58 @@
 			remoteGlobalIDString = DE0E4A357AFB66B71EC3A043B1DCF09C;
 			remoteInfo = ASRefresh;
 		};
+		F5DF405F3C8D3D8565128EB988A4B1CC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 34CABFAF2511B6FC0CAAB514D20B3F4A;
+			remoteInfo = "Pods-ASRefresh_Example";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1960B0D5CABC12094C0E54A9F892B4B5 /* sdRefeshView_arrow@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "sdRefeshView_arrow@2x.png"; path = "ASRefresh/Classes/sdRefeshView_arrow@2x.png"; sourceTree = "<group>"; };
+		0A598CA2B29B4284EFA8798935CDC57E /* SDRefreshHeaderView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDRefreshHeaderView.m; path = ASRefresh/Classes/SDRefreshHeaderView.m; sourceTree = "<group>"; };
 		27B0E4BA2195CDAC617F0C763CEFBFF2 /* Pods-ASRefresh_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ASRefresh_Example-Info.plist"; sourceTree = "<group>"; };
+		2815FA1216766E1465A3FAB04A3B4B37 /* ASRefresh-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ASRefresh-Info.plist"; sourceTree = "<group>"; };
+		33195A52779F18E238C5E9BA9EFF200F /* ASRefresh-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ASRefresh-prefix.pch"; sourceTree = "<group>"; };
+		347D410F5C2A2C4084B0ABC6CCC0C298 /* ResourceBundle-ASRefresh-ASRefresh-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-ASRefresh-ASRefresh-Info.plist"; sourceTree = "<group>"; };
 		3F49BBFEAB55B99CAF6B027C1936D72F /* Pods-ASRefresh_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ASRefresh_Example.release.xcconfig"; sourceTree = "<group>"; };
-		432BAD3CA428DE0C7E9A267F91B49101 /* ASRefresh.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ASRefresh.modulemap; sourceTree = "<group>"; };
-		4406E52D39FE5EE540CFCD1635653655 /* ASRefresh.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ASRefresh.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		5A7706BB9BA0B9FA0D85E3ECDDD0B96B /* ASRefresh-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ASRefresh-prefix.pch"; sourceTree = "<group>"; };
+		65366A61BD040714AD59D75EF1138214 /* SDRefreshFooterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDRefreshFooterView.h; path = ASRefresh/Classes/SDRefreshFooterView.h; sourceTree = "<group>"; };
+		6CEA6F488413C33C81522B6B8939DCF5 /* SDRefreshView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDRefreshView.m; path = ASRefresh/Classes/SDRefreshView.m; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		751DA846D8D25348CB49CE316D8770A0 /* Pods-ASRefresh_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ASRefresh_Tests-Info.plist"; sourceTree = "<group>"; };
-		757D661CBD06E5D9ACB967F27351373F /* ASRefresh-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ASRefresh-Info.plist"; sourceTree = "<group>"; };
 		76E52032D9E65479F6184207B79B4778 /* Pods-ASRefresh_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ASRefresh_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		79EA458010403CFB9618907EEA612C2E /* SDRefreshHeaderView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDRefreshHeaderView.m; path = ASRefresh/Classes/SDRefreshHeaderView.m; sourceTree = "<group>"; };
+		7CD48066F31AA89DAF7F38130C294B99 /* ASRefresh.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ASRefresh.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		80186E98B4F9769FECBCD9E795D8AB1A /* ASRefresh.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = ASRefresh.bundle; path = "ASRefresh-ASRefresh.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81B441C43664B736FD38C17BD16C4FE9 /* ASRefresh.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ASRefresh.modulemap; sourceTree = "<group>"; };
+		81EADADF1110829CF6EECFB048692CB2 /* ASRefresh.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ASRefresh.release.xcconfig; sourceTree = "<group>"; };
 		8A1848B9DDF0AAAD98A9F6275B8A05AB /* Pods-ASRefresh_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ASRefresh_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		8C01223BCD396C113C838EBA53E283EF /* Pods-ASRefresh_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ASRefresh_Example-umbrella.h"; sourceTree = "<group>"; };
 		8EC01FC6930E8D56BD256016724F908F /* Pods-ASRefresh_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ASRefresh_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		94A29462DB0333CDFAF156F2F31446F9 /* ASRefresh.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ASRefresh.debug.xcconfig; sourceTree = "<group>"; };
-		9698D5BC204CE35A846892FBFFF7E635 /* SDRefreshView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDRefreshView.m; path = ASRefresh/Classes/SDRefreshView.m; sourceTree = "<group>"; };
+		979BCADA6E4C1CE3C2F77B1ED67F18BC /* ASRefresh.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ASRefresh.debug.xcconfig; sourceTree = "<group>"; };
+		99D9F65E9C329081A85B1A785E37E107 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A214954C981D380FF3BBF39A5E9D2A27 /* SDRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDRefresh.h; path = ASRefresh/Classes/SDRefresh.h; sourceTree = "<group>"; };
 		A7487BC2DBC77AE8390D91570126EC0E /* Pods-ASRefresh_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ASRefresh_Example-frameworks.sh"; sourceTree = "<group>"; };
 		A8A4FC941EC44B7138A853F5236DE685 /* Pods_ASRefresh_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ASRefresh_Example.framework; path = "Pods-ASRefresh_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ABDD0D056DD6DB86317195B599990CE5 /* SDRefreshHeaderView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDRefreshHeaderView.h; path = ASRefresh/Classes/SDRefreshHeaderView.h; sourceTree = "<group>"; };
-		B2A1F3054D8E151AF32A6A22BB973574 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		ADCEBBCC04AB07727ACBDF44BC781FE2 /* ASRefresh-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ASRefresh-umbrella.h"; sourceTree = "<group>"; };
 		B2E742993AA26D4E139F094F206BCB6B /* Pods-ASRefresh_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ASRefresh_Example-dummy.m"; sourceTree = "<group>"; };
+		B374347CE8C25F77870F46CFD3478CD6 /* SDRefreshView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDRefreshView.h; path = ASRefresh/Classes/SDRefreshView.h; sourceTree = "<group>"; };
+		B9F6F819573F4AD7EC5B3ED189F16F20 /* SDRefreshFooterView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDRefreshFooterView.m; path = ASRefresh/Classes/SDRefreshFooterView.m; sourceTree = "<group>"; };
+		BCCBB351F0323A6255F0DDDEF2766F00 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		C18F5E490831085A5B3B8B6B89A918DA /* Pods_ASRefresh_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ASRefresh_Tests.framework; path = "Pods-ASRefresh_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C4C3A7B586544C8DBECAF6DA61D540ED /* ASRefresh-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ASRefresh-umbrella.h"; sourceTree = "<group>"; };
-		C6B1BEAF00C5DA6B06D89A1B50C4CBC8 /* ASRefresh.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ASRefresh.release.xcconfig; sourceTree = "<group>"; };
-		C7D636D81A3712B0761671558173003F /* SDRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDRefresh.h; path = ASRefresh/Classes/SDRefresh.h; sourceTree = "<group>"; };
 		CE52E2E19DB37B999E9D562A7C50001D /* Pods-ASRefresh_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ASRefresh_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		CEFED1A7E8928F7EC2704A8DA88B7DBB /* UIView+SDExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+SDExtension.h"; path = "ASRefresh/Classes/UIView+SDExtension.h"; sourceTree = "<group>"; };
-		D441A5F656FD73BAD1172FF39B945B7A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		D946F654D01FE86E648E77E5094B215C /* SDRefreshView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDRefreshView.h; path = ASRefresh/Classes/SDRefreshView.h; sourceTree = "<group>"; };
+		D44FAA4BCDBE32A1D206B9565924370F /* ASRefresh-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ASRefresh-dummy.m"; sourceTree = "<group>"; };
+		D87926476E0D054B2C64C8BB2A86BEF2 /* sdRefeshView_arrow@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "sdRefeshView_arrow@2x.png"; path = "ASRefresh/Assets/sdRefeshView_arrow@2x.png"; sourceTree = "<group>"; };
+		DBA26C1CE6B99552BD741EFB414ADEF3 /* SDRefreshHeaderView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDRefreshHeaderView.h; path = ASRefresh/Classes/SDRefreshHeaderView.h; sourceTree = "<group>"; };
 		DD7174762336E4DF3F7AA73275EEC484 /* Pods-ASRefresh_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ASRefresh_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E199C148DC36CF701036298206992392 /* Pods-ASRefresh_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ASRefresh_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		E36EB4F98998D173552DDBEA9DECD318 /* SDRefreshFooterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDRefreshFooterView.h; path = ASRefresh/Classes/SDRefreshFooterView.h; sourceTree = "<group>"; };
-		E9C182F2B4CFCCDB5851195C2A515C17 /* UIView+SDExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+SDExtension.m"; path = "ASRefresh/Classes/UIView+SDExtension.m"; sourceTree = "<group>"; };
+		E7896043F109B556A1C6EDD4F7514731 /* UIView+SDExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+SDExtension.h"; path = "ASRefresh/Classes/UIView+SDExtension.h"; sourceTree = "<group>"; };
 		EDF37A75DA46F2A9AFC81B08381B3132 /* Pods-ASRefresh_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ASRefresh_Tests-umbrella.h"; sourceTree = "<group>"; };
 		F0C8A527BF3682086FF396C075029C88 /* Pods-ASRefresh_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ASRefresh_Example.modulemap"; sourceTree = "<group>"; };
-		F2D50CE04EC393DB6741411427F7707C /* SDRefreshFooterView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDRefreshFooterView.m; path = ASRefresh/Classes/SDRefreshFooterView.m; sourceTree = "<group>"; };
-		F30A87BFED50C434FF213C88F068AE6F /* ASRefresh-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ASRefresh-dummy.m"; sourceTree = "<group>"; };
 		F565BB074A634B2BA3C2B38C30DEB72E /* Pods-ASRefresh_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ASRefresh_Tests.modulemap"; sourceTree = "<group>"; };
 		F7D9EC992A037D84D05F1897E6BC7853 /* Pods-ASRefresh_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ASRefresh_Tests-dummy.m"; sourceTree = "<group>"; };
+		FD8A01D0BEB47EDFF79D7418E98B2BDB /* UIView+SDExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+SDExtension.m"; path = "ASRefresh/Classes/UIView+SDExtension.m"; sourceTree = "<group>"; };
 		FE189C5005AF4AEF447634AC7A708586 /* Pods-ASRefresh_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ASRefresh_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		FE8D6ED2EA4AE92C60355C181D4E15E3 /* ASRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ASRefresh.framework; path = ASRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -107,11 +117,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EE895AFA27809EF9D03B792ACF103E35 /* Frameworks */ = {
+		CA5BD4419591D626EC64F949D7A6A235 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				282AAB3EC7269943710E3F50749413DE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F039DD348C9F3E28893CDBC8E76E2B76 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41629534F94DF9AB0BA585D099DD5DED /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,39 +152,31 @@
 			path = "Target Support Files/Pods-ASRefresh_Example";
 			sourceTree = "<group>";
 		};
-		277054AE90B36D80E58063B9A57CFED2 /* Support Files */ = {
+		1DE645082DB9536D1585278CC0111E65 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				432BAD3CA428DE0C7E9A267F91B49101 /* ASRefresh.modulemap */,
-				F30A87BFED50C434FF213C88F068AE6F /* ASRefresh-dummy.m */,
-				757D661CBD06E5D9ACB967F27351373F /* ASRefresh-Info.plist */,
-				5A7706BB9BA0B9FA0D85E3ECDDD0B96B /* ASRefresh-prefix.pch */,
-				C4C3A7B586544C8DBECAF6DA61D540ED /* ASRefresh-umbrella.h */,
-				94A29462DB0333CDFAF156F2F31446F9 /* ASRefresh.debug.xcconfig */,
-				C6B1BEAF00C5DA6B06D89A1B50C4CBC8 /* ASRefresh.release.xcconfig */,
+				80186E98B4F9769FECBCD9E795D8AB1A /* ASRefresh.bundle */,
+				FE8D6ED2EA4AE92C60355C181D4E15E3 /* ASRefresh.framework */,
+				A8A4FC941EC44B7138A853F5236DE685 /* Pods_ASRefresh_Example.framework */,
+				C18F5E490831085A5B3B8B6B89A918DA /* Pods_ASRefresh_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		493DDFD8FC31FA97CA4C24CD1B17A29A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				81B441C43664B736FD38C17BD16C4FE9 /* ASRefresh.modulemap */,
+				D44FAA4BCDBE32A1D206B9565924370F /* ASRefresh-dummy.m */,
+				2815FA1216766E1465A3FAB04A3B4B37 /* ASRefresh-Info.plist */,
+				33195A52779F18E238C5E9BA9EFF200F /* ASRefresh-prefix.pch */,
+				ADCEBBCC04AB07727ACBDF44BC781FE2 /* ASRefresh-umbrella.h */,
+				979BCADA6E4C1CE3C2F77B1ED67F18BC /* ASRefresh.debug.xcconfig */,
+				81EADADF1110829CF6EECFB048692CB2 /* ASRefresh.release.xcconfig */,
+				347D410F5C2A2C4084B0ABC6CCC0C298 /* ResourceBundle-ASRefresh-ASRefresh-Info.plist */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/ASRefresh";
-			sourceTree = "<group>";
-		};
-		2DB48EBAF1179B3C2F9A7B5192D5FF21 /* ASRefresh */ = {
-			isa = PBXGroup;
-			children = (
-				1960B0D5CABC12094C0E54A9F892B4B5 /* sdRefeshView_arrow@2x.png */,
-				C7D636D81A3712B0761671558173003F /* SDRefresh.h */,
-				E36EB4F98998D173552DDBEA9DECD318 /* SDRefreshFooterView.h */,
-				F2D50CE04EC393DB6741411427F7707C /* SDRefreshFooterView.m */,
-				ABDD0D056DD6DB86317195B599990CE5 /* SDRefreshHeaderView.h */,
-				79EA458010403CFB9618907EEA612C2E /* SDRefreshHeaderView.m */,
-				D946F654D01FE86E648E77E5094B215C /* SDRefreshView.h */,
-				9698D5BC204CE35A846892FBFFF7E635 /* SDRefreshView.m */,
-				CEFED1A7E8928F7EC2704A8DA88B7DBB /* UIView+SDExtension.h */,
-				E9C182F2B4CFCCDB5851195C2A515C17 /* UIView+SDExtension.m */,
-				A38F2AFC89BFAC66739E32496BF704E7 /* Pod */,
-				277054AE90B36D80E58063B9A57CFED2 /* Support Files */,
-			);
-			name = ASRefresh;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -187,22 +196,12 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		A1E8F13C701E7045C5F390081B94A965 /* Products */ = {
+		B553746C07F730B5824D96A510F99399 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				FE8D6ED2EA4AE92C60355C181D4E15E3 /* ASRefresh.framework */,
-				A8A4FC941EC44B7138A853F5236DE685 /* Pods_ASRefresh_Example.framework */,
-				C18F5E490831085A5B3B8B6B89A918DA /* Pods_ASRefresh_Tests.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		A38F2AFC89BFAC66739E32496BF704E7 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				4406E52D39FE5EE540CFCD1635653655 /* ASRefresh.podspec */,
-				D441A5F656FD73BAD1172FF39B945B7A /* LICENSE */,
-				B2A1F3054D8E151AF32A6A22BB973574 /* README.md */,
+				7CD48066F31AA89DAF7F38130C294B99 /* ASRefresh.podspec */,
+				BCCBB351F0323A6255F0DDDEF2766F00 /* LICENSE */,
+				99D9F65E9C329081A85B1A785E37E107 /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
@@ -229,7 +228,7 @@
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				E6730A13F9634122961EC6039567EEFF /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				A1E8F13C701E7045C5F390081B94A965 /* Products */,
+				1DE645082DB9536D1585278CC0111E65 /* Products */,
 				67E522737121D90A0098E6B1B25FA355 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -245,14 +244,47 @@
 		E6730A13F9634122961EC6039567EEFF /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				2DB48EBAF1179B3C2F9A7B5192D5FF21 /* ASRefresh */,
+				F2C0266AAF241EE2B42EA818CDBB84BB /* ASRefresh */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		F2C0266AAF241EE2B42EA818CDBB84BB /* ASRefresh */ = {
+			isa = PBXGroup;
+			children = (
+				D87926476E0D054B2C64C8BB2A86BEF2 /* sdRefeshView_arrow@2x.png */,
+				A214954C981D380FF3BBF39A5E9D2A27 /* SDRefresh.h */,
+				65366A61BD040714AD59D75EF1138214 /* SDRefreshFooterView.h */,
+				B9F6F819573F4AD7EC5B3ED189F16F20 /* SDRefreshFooterView.m */,
+				DBA26C1CE6B99552BD741EFB414ADEF3 /* SDRefreshHeaderView.h */,
+				0A598CA2B29B4284EFA8798935CDC57E /* SDRefreshHeaderView.m */,
+				B374347CE8C25F77870F46CFD3478CD6 /* SDRefreshView.h */,
+				6CEA6F488413C33C81522B6B8939DCF5 /* SDRefreshView.m */,
+				E7896043F109B556A1C6EDD4F7514731 /* UIView+SDExtension.h */,
+				FD8A01D0BEB47EDFF79D7418E98B2BDB /* UIView+SDExtension.m */,
+				B553746C07F730B5824D96A510F99399 /* Pod */,
+				493DDFD8FC31FA97CA4C24CD1B17A29A /* Support Files */,
+			);
+			name = ASRefresh;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		08F3A591F6A5A0534C7495B0DC5DFDCA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4327A97E5EED2BFAB92C3C6D4DBCF155 /* ASRefresh-umbrella.h in Headers */,
+				373F2328C34EDE5E7B5372C8394DAAC9 /* SDRefresh.h in Headers */,
+				784C6F6A7BE4F1E8563BCC556579A44C /* SDRefreshFooterView.h in Headers */,
+				B00A7A438FCF4B34BCBEEA6B3E29C6D8 /* SDRefreshHeaderView.h in Headers */,
+				14E7ABF8DB4076EADC31C3A9C12D28BA /* SDRefreshView.h in Headers */,
+				388BF5D9E102C4F8E4F66238D8AD71C2 /* UIView+SDExtension.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6D8EA7C187D109AB44830ABA1898EBBF /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -266,19 +298,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E0A92086409098A942425464FD257FE /* Pods-ASRefresh_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		A71F0D94E205EE52932C590F321AED12 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				C7924BCAC2BB8780C9EB7DD98283E56C /* ASRefresh-umbrella.h in Headers */,
-				1AEDE5614B80DBDBA97A2259E092DCE0 /* SDRefresh.h in Headers */,
-				F5CFA92B6B11E4B579552F6CE28CF4F6 /* SDRefreshFooterView.h in Headers */,
-				1CA53C35770F150DA5C9C2A7CE015433 /* SDRefreshHeaderView.h in Headers */,
-				5354B6A6DFAA45CB4F390DEC00D89387 /* SDRefreshView.h in Headers */,
-				9EE9D87B489D29B2382D8A791EE46779 /* UIView+SDExtension.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,18 +323,36 @@
 			productReference = A8A4FC941EC44B7138A853F5236DE685 /* Pods_ASRefresh_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		DE0E4A357AFB66B71EC3A043B1DCF09C /* ASRefresh */ = {
+		7B5C95721C59A0D0E0A977FFCB92A5A6 /* ASRefresh-ASRefresh */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 363059AABA2EF54D07FA405DDEB7D76D /* Build configuration list for PBXNativeTarget "ASRefresh" */;
+			buildConfigurationList = FD1DFECD4242E866DD8A8A35FBA795E9 /* Build configuration list for PBXNativeTarget "ASRefresh-ASRefresh" */;
 			buildPhases = (
-				A71F0D94E205EE52932C590F321AED12 /* Headers */,
-				3376EE68F680015817D0CBAD6A20FFCA /* Sources */,
-				EE895AFA27809EF9D03B792ACF103E35 /* Frameworks */,
-				879472DC8CD5CE7070BA21BDB107322F /* Resources */,
+				0A1C730744CEC1133EE8497BAC44746E /* Sources */,
+				CA5BD4419591D626EC64F949D7A6A235 /* Frameworks */,
+				313BC1B1D01011F5ECE1D8570727C675 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+			);
+			name = "ASRefresh-ASRefresh";
+			productName = "ASRefresh-ASRefresh";
+			productReference = 80186E98B4F9769FECBCD9E795D8AB1A /* ASRefresh.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+		DE0E4A357AFB66B71EC3A043B1DCF09C /* ASRefresh */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B5535E8456E7A69E1CEE6C25D7407FFE /* Build configuration list for PBXNativeTarget "ASRefresh" */;
+			buildPhases = (
+				08F3A591F6A5A0534C7495B0DC5DFDCA /* Headers */,
+				C57B61621435B5D84D9BAFBC34AE1758 /* Sources */,
+				F039DD348C9F3E28893CDBC8E76E2B76 /* Frameworks */,
+				6D4B98406F847875D109DE1109899896 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				78E9EC5CF2D9A59BAA5247201E49FF54 /* PBXTargetDependency */,
 			);
 			name = ASRefresh;
 			productName = ASRefresh;
@@ -334,7 +371,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				EC26D07F60F9794D822C356D5ADE3573 /* PBXTargetDependency */,
+				A5363796FEB26E7565ABFBDBBEA63D25 /* PBXTargetDependency */,
 			);
 			name = "Pods-ASRefresh_Tests";
 			productName = "Pods-ASRefresh_Tests";
@@ -359,11 +396,12 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = A1E8F13C701E7045C5F390081B94A965 /* Products */;
+			productRefGroup = 1DE645082DB9536D1585278CC0111E65 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				DE0E4A357AFB66B71EC3A043B1DCF09C /* ASRefresh */,
+				7B5C95721C59A0D0E0A977FFCB92A5A6 /* ASRefresh-ASRefresh */,
 				34CABFAF2511B6FC0CAAB514D20B3F4A /* Pods-ASRefresh_Example */,
 				E7E11CA3287FB134D28FCEF425B41EB9 /* Pods-ASRefresh_Tests */,
 			);
@@ -385,16 +423,32 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		879472DC8CD5CE7070BA21BDB107322F /* Resources */ = {
+		313BC1B1D01011F5ECE1D8570727C675 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FA06A07730DC556FA46AA6A59FE3C3C /* sdRefeshView_arrow@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6D4B98406F847875D109DE1109899896 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13712975E9A6C8C5B38C1509F36E0CC4 /* ASRefresh.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		0A1C730744CEC1133EE8497BAC44746E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		1CF5892F6AC3008679B5E7788590BA99 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -403,24 +457,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3376EE68F680015817D0CBAD6A20FFCA /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				ABF2A74CB6DC37EC8AD22F8C61AC6F2E /* ASRefresh-dummy.m in Sources */,
-				4D4992027E2FFE6F0A188DDA983312B1 /* sdRefeshView_arrow@2x.png in Sources */,
-				CB04F3815CA145909B86B2B6E1C38538 /* SDRefreshFooterView.m in Sources */,
-				F2317E60BEFCDE4B5A7BE97737114741 /* SDRefreshHeaderView.m in Sources */,
-				56FFD069CCEF987CFAB50318097C1E06 /* SDRefreshView.m in Sources */,
-				605AAA22067157026DBB5D6B8210BE09 /* UIView+SDExtension.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		9B477237D36A40F1FDDC2354ED5F09A5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				1B32092C756844A0C98F4EF1E7FD2501 /* Pods-ASRefresh_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C57B61621435B5D84D9BAFBC34AE1758 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF992D77F06BEE57CE68261DE7731854 /* ASRefresh-dummy.m in Sources */,
+				A2177E72FC534EF87DC686C2F5180892 /* SDRefreshFooterView.m in Sources */,
+				319CB0F659A78AAAC8553569A53A0E7F /* SDRefreshHeaderView.m in Sources */,
+				A50E78CCDE018E23E6A2E44EB98B383B /* SDRefreshView.m in Sources */,
+				A81F22CECE560A4CD0AA0680ADEBFACA /* UIView+SDExtension.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,11 +486,17 @@
 			target = DE0E4A357AFB66B71EC3A043B1DCF09C /* ASRefresh */;
 			targetProxy = A87B8322011BC67E20307BF2B25DA12F /* PBXContainerItemProxy */;
 		};
-		EC26D07F60F9794D822C356D5ADE3573 /* PBXTargetDependency */ = {
+		78E9EC5CF2D9A59BAA5247201E49FF54 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "ASRefresh-ASRefresh";
+			target = 7B5C95721C59A0D0E0A977FFCB92A5A6 /* ASRefresh-ASRefresh */;
+			targetProxy = 74839BD5569748EC97F7895439447A8C /* PBXContainerItemProxy */;
+		};
+		A5363796FEB26E7565ABFBDBBEA63D25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-ASRefresh_Example";
 			target = 34CABFAF2511B6FC0CAAB514D20B3F4A /* Pods-ASRefresh_Example */;
-			targetProxy = 9887F2CCAC0ADBD6C4D36FFD25D81934 /* PBXContainerItemProxy */;
+			targetProxy = F5DF405F3C8D3D8565128EB988A4B1CC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -500,6 +559,53 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		04A0A85B8F312380B51E2434424EE94F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 81EADADF1110829CF6EECFB048692CB2 /* ASRefresh.release.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/ASRefresh";
+				IBSC_MODULE = ASRefresh;
+				INFOPLIST_FILE = "Target Support Files/ASRefresh/ResourceBundle-ASRefresh-ASRefresh-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				PRODUCT_NAME = ASRefresh;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		20714B3FB1580A876F154930B4AF3937 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 81EADADF1110829CF6EECFB048692CB2 /* ASRefresh.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ASRefresh/ASRefresh-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ASRefresh/ASRefresh-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ASRefresh/ASRefresh.modulemap";
+				PRODUCT_MODULE_NAME = ASRefresh;
+				PRODUCT_NAME = ASRefresh;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -605,36 +711,21 @@
 			};
 			name = Debug;
 		};
-		BF27BA9C4305E29602726C52DA339936 /* Release */ = {
+		83F6C566D13BD7E5368D4DC13127655A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C6B1BEAF00C5DA6B06D89A1B50C4CBC8 /* ASRefresh.release.xcconfig */;
+			baseConfigurationReference = 979BCADA6E4C1CE3C2F77B1ED67F18BC /* ASRefresh.debug.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ASRefresh/ASRefresh-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ASRefresh/ASRefresh-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/ASRefresh";
+				IBSC_MODULE = ASRefresh;
+				INFOPLIST_FILE = "Target Support Files/ASRefresh/ResourceBundle-ASRefresh-ASRefresh-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ASRefresh/ASRefresh.modulemap";
-				PRODUCT_MODULE_NAME = ASRefresh;
 				PRODUCT_NAME = ASRefresh;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
-			name = Release;
+			name = Debug;
 		};
 		CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -698,9 +789,9 @@
 			};
 			name = Release;
 		};
-		E4984E528C54B7750227A32FD1334BD8 /* Debug */ = {
+		D2976F19006D09296A37C30598442A8C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 94A29462DB0333CDFAF156F2F31446F9 /* ASRefresh.debug.xcconfig */;
+			baseConfigurationReference = 979BCADA6E4C1CE3C2F77B1ED67F18BC /* ASRefresh.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -764,15 +855,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		363059AABA2EF54D07FA405DDEB7D76D /* Build configuration list for PBXNativeTarget "ASRefresh" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				E4984E528C54B7750227A32FD1334BD8 /* Debug */,
-				BF27BA9C4305E29602726C52DA339936 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -791,11 +873,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		B5535E8456E7A69E1CEE6C25D7407FFE /* Build configuration list for PBXNativeTarget "ASRefresh" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2976F19006D09296A37C30598442A8C /* Debug */,
+				20714B3FB1580A876F154930B4AF3937 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		D9C83F4F492F521F17FA96FC3270E56D /* Build configuration list for PBXNativeTarget "Pods-ASRefresh_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2808DDC776BC33B86EE99F589C83905E /* Debug */,
 				EFC146EFCA7C9BA6A493F7F7E229D892 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FD1DFECD4242E866DD8A8A35FBA795E9 /* Build configuration list for PBXNativeTarget "ASRefresh-ASRefresh" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83F6C566D13BD7E5368D4DC13127655A /* Debug */,
+				04A0A85B8F312380B51E2434424EE94F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
