@@ -1,5 +1,5 @@
 PODS:
-  - ASRefresh (0.3.0)
+  - ASRefresh (0.4.0)
 
 DEPENDENCIES:
   - ASRefresh (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ASRefresh: a604fd192ac87ae035d1492d8337724229eae0c7
+  ASRefresh: 0aa0a6f1cde19493687f1d165f3191801b8eba5e
 
 PODFILE CHECKSUM: 2f6dc8522dfd0a3acc539e1ad9f937465215fa64
 

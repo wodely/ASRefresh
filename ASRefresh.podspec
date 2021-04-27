@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ASRefresh'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'fresh tool'
 
 # This description is used to generate tags and improve search results.
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-头部刷新工具
+     头部刷新工具 可自定义刷新动画
                        DESC
 
-  s.homepage         = 'https://github.com'
+  s.homepage         = 'https://github.com/'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liukecyl@163.com' => '540548997@qq.com' }
